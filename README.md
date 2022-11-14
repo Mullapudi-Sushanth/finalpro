@@ -13,3 +13,6 @@ This is my final frt project
 
 ## Contact Page
 ![Screenshot 2022-10-28 185247](https://user-images.githubusercontent.com/116786675/198607264-4c022088-9a38-4d3a-b30d-1ce293e71bf9.png)
+## used microsoft azure tools
+![azure1](https://user-images.githubusercontent.com/116786675/201633616-7b5fa9db-debd-41b1-bd4d-1fc5648d1a96.PNG)
+![azure2](https://user-images.githubusercontent.com/116786675/201633620-8fc4fa2c-36d8-4cc8-b790-6d7cba769477.PNG)
